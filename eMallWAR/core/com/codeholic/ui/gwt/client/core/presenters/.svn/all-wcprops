@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/presenters
+END
+ICorePresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/presenters/ICorePresenter.java
+END
+IBlankPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/presenters/IBlankPresenter.java
+END

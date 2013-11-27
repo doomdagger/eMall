@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/eMall/!svn/ver/58/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt
+END
+GWTReceiptServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eMall/!svn/ver/36/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt/GWTReceiptServiceAsync.java
+END
+GWTStoreInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eMall/!svn/ver/24/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt/GWTStoreInfoService.java
+END
+IBlankService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eMall/!svn/ver/58/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt/IBlankService.java
+END
+GWTStoreInfoServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eMall/!svn/ver/36/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt/GWTStoreInfoServiceAsync.java
+END
+IBlankServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eMall/!svn/ver/58/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt/IBlankServiceAsync.java
+END
+GWTReceiptService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eMall/!svn/ver/33/eMallWAR/src/com/codeholic/ui/gwt/shared/service/receipt/GWTReceiptService.java
+END

@@ -1,0 +1,65 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	
+	<ui:style field="style" src="style-login.css"></ui:style>
+	
+	<g:HTMLPanel>
+
+		<link rel="stylesheet" href="css/reset-login.css" type="text/css"
+			media="screen" />
+
+		<link rel="stylesheet" href="css/style-login.css" type="text/css"
+			media="screen" />
+
+		<link rel="stylesheet" href="css/invalid-login.css" type="text/css"
+			media="screen" />
+
+
+		<div id="login">
+
+			<div id="login-wrapper" class="png_bg">
+				<div id="login-top">
+
+					<h1>E-mall System</h1>
+					<!-- Logo (221px width) -->
+					<img id="logo" src="images/logo.png" alt="Simpla Admin logo" />
+				</div> <!-- End #logn-top -->
+
+				<div id="login-content">
+
+					<form action="index.html">
+
+						<div class="notification information png_bg">
+							<div>
+								输入用户名密码登录E-Mall System
+							</div>
+						</div>
+
+						<p>
+							<label>用户名：</label>
+							
+							<g:TextBox styleName="{style.text-input}" ui:field="userNameField"></g:TextBox>
+						</p>
+						<div class="clear"></div>
+						<p>
+							<label>密码：</label>
+
+							<g:PasswordTextBox styleName="{style.text-input}" ui:field="userPassField"></g:PasswordTextBox>
+						</p>
+						<!-- <div class="clear"></div> <p id="remember-password"> <input type="checkbox" 
+							/>下次自动登录 </p> -->
+						<div class="clear"></div>
+
+						<p align="right">
+							
+							<g:Button styleName="{style.button}" ui:field="loginButton">登陆</g:Button>
+						</p>
+
+					</form>
+				</div> <!-- End #login-content -->
+
+			</div> <!-- End #login-wrapper -->
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder> 

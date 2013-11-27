@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/eMall/!svn/ver/232/eMallWAR/SHOP/com/codeholic/ui/gwt/client/core/shop
+END
+SHOP.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eMall/!svn/ver/127/eMallWAR/SHOP/com/codeholic/ui/gwt/client/core/shop/SHOP.gwt.xml
+END
+ShopActivityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eMall/!svn/ver/232/eMallWAR/SHOP/com/codeholic/ui/gwt/client/core/shop/ShopActivityMapper.java
+END
+ShopViewBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eMall/!svn/ver/127/eMallWAR/SHOP/com/codeholic/ui/gwt/client/core/shop/ShopViewBinder.java
+END
+ShopGinjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eMall/!svn/ver/232/eMallWAR/SHOP/com/codeholic/ui/gwt/client/core/shop/ShopGinjector.java
+END

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="3.0"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+	<display-name>eMallWAR</display-name>
+  
+	<!-- GWT Servlet Impl -->
+	<servlet>
+		<servlet-name>StoreInfoService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.receipt.GWTStoreInfoServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>StoreInfoService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/receipt/storeInfo</url-pattern>
+	</servlet-mapping>
+
+	<!-- blank -->
+	<servlet>
+		<servlet-name>BlankService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.receipt.BlankServiceImpl</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>BlankService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/blank</url-pattern>
+	</servlet-mapping>
+	<!-- blank -->
+	
+	<!-- 数据字典 -->
+	<servlet>
+		<servlet-name>DictService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.dict.DictServiceImpl</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>DictService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/dict</url-pattern>
+	</servlet-mapping>
+	<!-- 数据字典 -->
+	
+	
+	<!-- User -->
+	<servlet>
+		<servlet-name>UserService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.user.GWTUserServiceImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>UserService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/user</url-pattern>
+	</servlet-mapping>
+	<!-- User -->
+	
+	<!-- shop -->
+	<servlet>
+		<servlet-name>ShopService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.shop.IGWTShopServiceImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ShopService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/shop</url-pattern>
+	</servlet-mapping>
+	<!-- shop -->
+
+	<!-- Goods商品模块，4个servlet -->
+	<servlet>
+		<servlet-name>GoodsService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.goods.GWTGoodsServiceImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>Goodsclass1Service</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.goods.GWTGoodsclass1ServiceImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>Goodsclass2Service</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.goods.GWTGoodsclass2ServiceImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>BrandService</servlet-name>
+		<servlet-class>com.codeholic.ui.gwt.server.goods.GWTBrandServiceImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GoodsService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/goods/goods</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>Goodsclass1Service</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/goods/goodsclass1</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>Goodsclass2Service</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/goods/goodsclass2</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>BrandService</servlet-name>
+		<url-pattern>/com.codeholic.ui.gwt.eMallApp/goods/brand</url-pattern>
+	</servlet-mapping>
+	<!-- Goods商品模块，4个servlet -->
+
+	<welcome-file-list>
+		<welcome-file>eMallApp.html</welcome-file>
+	</welcome-file-list>
+</web-app>

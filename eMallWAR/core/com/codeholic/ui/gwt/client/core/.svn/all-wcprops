@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/eMall/!svn/ver/197/eMallWAR/core/com/codeholic/ui/gwt/client/core
+END
+CoreActivityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eMall/!svn/ver/90/eMallWAR/core/com/codeholic/ui/gwt/client/core/CoreActivityMapper.java
+END
+CoreBlankPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eMall/!svn/ver/152/eMallWAR/core/com/codeholic/ui/gwt/client/core/CoreBlankPanel.java
+END
+CoreViewBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eMall/!svn/ver/90/eMallWAR/core/com/codeholic/ui/gwt/client/core/CoreViewBinder.java
+END
+CoreAppGinModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eMall/!svn/ver/197/eMallWAR/core/com/codeholic/ui/gwt/client/core/CoreAppGinModule.java
+END
+CorePlaceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eMall/!svn/ver/59/eMallWAR/core/com/codeholic/ui/gwt/client/core/CorePlaceController.java
+END
+Core.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/eMall/!svn/ver/207/eMallWAR/core/com/codeholic/ui/gwt/client/core/Core.gwt.xml
+END
+CoreApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/eMall/!svn/ver/90/eMallWAR/core/com/codeholic/ui/gwt/client/core/CoreApp.java
+END
+ICoreAppGinjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eMall/!svn/ver/197/eMallWAR/core/com/codeholic/ui/gwt/client/core/ICoreAppGinjector.java
+END
+ICorePlacesHistoryMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eMall/!svn/ver/197/eMallWAR/core/com/codeholic/ui/gwt/client/core/ICorePlacesHistoryMapper.java
+END

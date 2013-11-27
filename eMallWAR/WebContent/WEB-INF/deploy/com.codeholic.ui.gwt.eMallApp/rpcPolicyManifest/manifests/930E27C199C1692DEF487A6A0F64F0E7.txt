@@ -1,0 +1,2 @@
+serviceClass: com.codeholic.ui.gwt.shared.dict.service.IDictService
+path: AFD06E071A096DC1C751FB5FE63ACB17.gwt.rpc

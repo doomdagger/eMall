@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/eMall/!svn/ver/245/eMallJPA/src/com/codeholic/pojos/jpa
+END
+Goodsclass2.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/eMall/!svn/ver/243/eMallJPA/src/com/codeholic/pojos/jpa/Goodsclass2.java
+END
+Goodsclass1.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/eMall/!svn/ver/245/eMallJPA/src/com/codeholic/pojos/jpa/Goodsclass1.java
+END
+StoreInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/eMall/!svn/ver/243/eMallJPA/src/com/codeholic/pojos/jpa/StoreInfo.java
+END
+Good.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/eMall/!svn/ver/245/eMallJPA/src/com/codeholic/pojos/jpa/Good.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/eMall/!svn/ver/245/eMallJPA/src/com/codeholic/pojos/jpa/User.java
+END
+ReceiptDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/eMall/!svn/ver/168/eMallJPA/src/com/codeholic/pojos/jpa/ReceiptDetail.java
+END
+Receipt.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/eMall/!svn/ver/28/eMallJPA/src/com/codeholic/pojos/jpa/Receipt.java
+END
+Brand.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eMall/!svn/ver/243/eMallJPA/src/com/codeholic/pojos/jpa/Brand.java
+END
+MonthSale.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/eMall/!svn/ver/32/eMallJPA/src/com/codeholic/pojos/jpa/MonthSale.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/eMall/!svn/ver/245/eMallJPA/src/com/codeholic/pojos/jpa/Dict.java
+END
+DaySale.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/eMall/!svn/ver/27/eMallJPA/src/com/codeholic/pojos/jpa/DaySale.java
+END
+EntityObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/eMall/!svn/ver/168/eMallJPA/src/com/codeholic/pojos/jpa/EntityObject.java
+END

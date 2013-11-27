@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/eMall/!svn/ver/95/eMallWAR/USER/com/codeholic/ui/gwt/shared/user/service
+END
+IGWTUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eMall/!svn/ver/185/eMallWAR/USER/com/codeholic/ui/gwt/shared/user/service/IGWTUserService.java
+END
+IGWTUserServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eMall/!svn/ver/185/eMallWAR/USER/com/codeholic/ui/gwt/shared/user/service/IGWTUserServiceAsync.java
+END
+UserPagingLoadResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eMall/!svn/ver/194/eMallWAR/USER/com/codeholic/ui/gwt/shared/user/service/UserPagingLoadResult.java
+END

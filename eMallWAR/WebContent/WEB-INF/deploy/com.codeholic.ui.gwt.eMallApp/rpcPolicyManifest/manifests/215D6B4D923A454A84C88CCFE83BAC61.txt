@@ -1,0 +1,2 @@
+serviceClass: com.codeholic.ui.gwt.shared.goods.service.IGWTBrandService
+path: EFF2DCD9E0F08AFDFF8C0E50B24AA1AF.gwt.rpc

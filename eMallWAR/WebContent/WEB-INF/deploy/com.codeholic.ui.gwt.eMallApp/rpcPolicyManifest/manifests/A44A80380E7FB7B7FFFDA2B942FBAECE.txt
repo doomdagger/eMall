@@ -1,0 +1,2 @@
+serviceClass: com.codeholic.ui.gwt.shared.shop.service.IGWTShopService
+path: 9D3774C9B0C85EBE513C0CD74EE33B5D.gwt.rpc

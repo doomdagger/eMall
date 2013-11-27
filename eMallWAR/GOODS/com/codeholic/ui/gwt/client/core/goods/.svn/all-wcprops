@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/eMall/!svn/ver/192/eMallWAR/GOODS/com/codeholic/ui/gwt/client/core/goods
+END
+GOODS.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eMall/!svn/ver/192/eMallWAR/GOODS/com/codeholic/ui/gwt/client/core/goods/GOODS.gwt.xml
+END
+GoodsActivityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eMall/!svn/ver/196/eMallWAR/GOODS/com/codeholic/ui/gwt/client/core/goods/GoodsActivityMapper.java
+END
+GoodsGinjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eMall/!svn/ver/196/eMallWAR/GOODS/com/codeholic/ui/gwt/client/core/goods/GoodsGinjector.java
+END
+GoodsViewBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eMall/!svn/ver/196/eMallWAR/GOODS/com/codeholic/ui/gwt/client/core/goods/GoodsViewBinder.java
+END

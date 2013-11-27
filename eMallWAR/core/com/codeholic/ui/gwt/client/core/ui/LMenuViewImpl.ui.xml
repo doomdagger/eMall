@@ -1,0 +1,89 @@
+		<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		
+	</ui:style>
+	
+	<g:HTMLPanel>
+	
+		<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="css/invalid.css" type="text/css" media="screen" />
+		
+		<div id="sidebar">
+			<div id="sidebar-wrapper"> 
+			
+			<h1 id="sidebar-title"><a href="#">e－Mall System</a></h1>
+		  
+			<a href="#"><img id="logo" src="/images/logo.png" alt="this is an png" title="this is an png"/></a>
+		  
+			<div id="profile-links">
+				Hello, <a href="#" title="Edit your profile">John JOE</a> | <a href="#" title="Sign Out">Sign Out</a>
+			</div>        
+			
+			<ul id="main-nav"> 
+				<li>
+					<a href="#blank:null" class="nav-top-item no-submenu">
+					欢迎进入e－Mall System
+					</a> 
+				</li>
+				
+				<li> 
+					<a href="#dict:null" class="nav-top-item current"> 
+					数据字典管理
+					</a>
+				</li>
+				<li> 
+					<a href="#user:null" class="nav-top-item"> 
+					管理员管理
+					</a>
+					<ul>
+						<li><a href="#user:null">用户管理（李赫）</a></li>
+						<li><a href="#">角色管理（跳转到数据字典）</a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="#shop:joechow" class="nav-top-item">
+					门店销售管理
+					</a>
+					<ul>
+						<li><a href="#"><a href="#">门店信息管理（小辉）</a></a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="#goods:null" class="nav-top-item">
+					商品管理
+					</a>
+					<ul>
+						<li><a href="#brand:null">商品品牌管理</a></li>
+						<li><a href="#goodsclass1:null">一级分类管理</a></li>
+						<li><a href="#goodsclass2:null">二级分类管理</a></li>
+						<li><a href="#goods:null">商品信息管理</a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="#" class="nav-top-item">
+					小票管理
+					</a>
+					<ul>
+						<li><a href="#">历史小票管理</a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="#" class="nav-top-item">
+					关于Codeholic
+					</a>
+					<ul>
+						<li><a href="#">about</a></li>
+					</ul>
+				</li>      
+			</ul> 
+		</div>
+		</div> 
+	</g:HTMLPanel>
+</ui:UiBinder> 

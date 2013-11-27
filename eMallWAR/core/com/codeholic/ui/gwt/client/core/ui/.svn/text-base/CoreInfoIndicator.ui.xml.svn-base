@@ -1,0 +1,27 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+<ui:style>
+.widget{
+	color: #ffffff;
+	background: #ff3333;
+	width: 150px;
+	height: 50px;
+	border-radius:10px;
+	box-shadow: 8px 8px 4px #666;
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.content{
+	text-align: center;
+	width: 100%;
+	height: 100%;	
+}
+</ui:style>
+
+	<g:FlowPanel ui:field="view" styleName="{style.widget}">
+	   <g:Label styleName="{style.content}">Busy</g:Label>
+	</g:FlowPanel>
+</ui:UiBinder>

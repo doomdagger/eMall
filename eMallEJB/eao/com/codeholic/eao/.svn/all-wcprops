@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/eMall/!svn/ver/244/eMallEJB/eao/com/codeholic/eao
+END
+FilterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eMall/!svn/ver/230/eMallEJB/eao/com/codeholic/eao/FilterQuery.java
+END
+ParamMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eMall/!svn/ver/151/eMallEJB/eao/com/codeholic/eao/ParamMapper.java
+END
+GenericEao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/eMall/!svn/ver/244/eMallEJB/eao/com/codeholic/eao/GenericEao.java
+END
+GenericEaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/eMall/!svn/ver/247/eMallEJB/eao/com/codeholic/eao/GenericEaoImpl.java
+END
+QueryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/eMall/!svn/ver/148/eMallEJB/eao/com/codeholic/eao/QueryWrapper.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/eMall/!svn/ver/38/eMallEJB/eao/com/codeholic/eao/UUIDGenerator.java
+END
+ParamFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eMall/!svn/ver/222/eMallEJB/eao/com/codeholic/eao/ParamFilter.java
+END
+NativeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eMall/!svn/ver/224/eMallEJB/eao/com/codeholic/eao/NativeQuery.java
+END

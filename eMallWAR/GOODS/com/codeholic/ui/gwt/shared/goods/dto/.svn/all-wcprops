@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/eMall/!svn/ver/192/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto
+END
+Goodsclass1Dto.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eMall/!svn/ver/196/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/Goodsclass1Dto.java
+END
+Goodsclass2Dto.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eMall/!svn/ver/196/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/Goodsclass2Dto.java
+END
+StringPairProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eMall/!svn/ver/248/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/StringPairProperties.java
+END
+BrandPagingLoadConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eMall/!svn/ver/212/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/BrandPagingLoadConfig.java
+END
+StringPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eMall/!svn/ver/248/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/StringPair.java
+END
+GoodsDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eMall/!svn/ver/248/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/GoodsDto.java
+END
+BrandDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eMall/!svn/ver/196/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/BrandDto.java
+END
+BrandPagingLoadResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eMall/!svn/ver/207/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/BrandPagingLoadResult.java
+END
+GoodsPagingLoadResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eMall/!svn/ver/248/eMallWAR/GOODS/com/codeholic/ui/gwt/shared/goods/dto/GoodsPagingLoadResult.java
+END

@@ -1,0 +1,2 @@
+serviceClass: com.codeholic.ui.gwt.shared.user.service.IGWTUserService
+path: 4F09D27327791C3607F9F3634C72CE1D.gwt.rpc

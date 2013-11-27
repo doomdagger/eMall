@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/eMall/!svn/ver/244/eMallEJB/business/com/codeholic/business/goods/view
+END
+IGoodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eMall/!svn/ver/244/eMallEJB/business/com/codeholic/business/goods/view/IGoodService.java
+END
+IGoodsclass1Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eMall/!svn/ver/244/eMallEJB/business/com/codeholic/business/goods/view/IGoodsclass1Service.java
+END
+IGoodsclass2Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eMall/!svn/ver/244/eMallEJB/business/com/codeholic/business/goods/view/IGoodsclass2Service.java
+END
+IBrandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eMall/!svn/ver/244/eMallEJB/business/com/codeholic/business/goods/view/IBrandService.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/events
+END
+CoreEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/events/CoreEvent.java
+END
+CoreHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/events/CoreHandler.java
+END
+HasCoreHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eMall/!svn/ver/60/eMallWAR/core/com/codeholic/ui/gwt/client/core/events/HasCoreHandlers.java
+END

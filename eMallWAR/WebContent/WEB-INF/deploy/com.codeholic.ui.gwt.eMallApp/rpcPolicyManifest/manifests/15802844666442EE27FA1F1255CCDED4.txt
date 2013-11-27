@@ -1,0 +1,2 @@
+serviceClass: com.codeholic.ui.gwt.shared.service.receipt.IBlankService
+path: 8658588FCCC8FDAA591DB14EEB5616BF.gwt.rpc

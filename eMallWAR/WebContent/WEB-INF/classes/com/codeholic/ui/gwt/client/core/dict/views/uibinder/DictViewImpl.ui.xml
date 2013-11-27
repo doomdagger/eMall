@@ -1,0 +1,29 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.gwt-Tree .gwt-TreeItem{
+			padding:10 0 0 0;
+			cursor:hand;
+			background:white;
+		}	
+		
+	</ui:style>
+	<g:HTMLPanel>
+		<link rel="stylesheet" href="css/dialog.css" type="text/css" media="screen" />
+		
+		<div class="clear"></div>
+		<div id="main-content">
+			<div class="content-box-header">
+				<h3>数据字典管理</h3>
+			</div>
+			
+			<div class="content-box-content">			
+			
+			<g:Tree ui:field="dictTree" >
+				
+			</g:Tree>
+			</div>
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder> 

@@ -1,0 +1,74 @@
+10
+
+dir
+128
+https://223.4.241.222/svn/eMall/eMallWAR/WebContent
+https://223.4.241.222/svn/eMall
+
+
+
+2013-10-04T13:44:44.823310Z
+128
+xw
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+00c3126e-958f-4a43-a127-bda461d221d5
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+eMallApp.html
+file
+
+
+
+
+2013-09-22T15:29:49.868000Z
+fdab317a41f04a5ff90456aad25414e7
+2013-09-27T16:48:24.244622Z
+9
+lh
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+516
+
+images
+dir
+
