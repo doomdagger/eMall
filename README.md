@@ -9,4 +9,4 @@ eMall
 
 ##封装
 
-用Java反射和递归调用，为JPA 实体类封装了统一的`toString()`，便于打印实体对象。用EJB的stateless session bean，结合JPA的`EntityManager`与Java泛型，封装了统一的`Generic EAO`类。通过继承此`Generic EAO`类，一个实体可以迅速获到自己的EAO类。用Servlet封装了简易的测试框架，在不启动笨重的GWT插件的前提下，快速测试业务方法。基于GWT的MVP开发模式，提取出单独`core`层，这样可以只使用一个`MVP`架构，分模块开发项目。
+用Java反射和递归调用，为JPA 实体类封装了统一的`toString()`，便于打印实体对象。用EJB的stateless session bean，结合JPA的`EntityManager`与Java泛型，封装了统一的`Generic EAO`类。通过继承此`Generic EAO`类，一个实体可以迅速获到自己的EAO类。用Servlet封装了简易的测试框架，在不启动笨重的GWT插件的前提下，快速测试业务方法。基于GWT的MVP开发模式，提取出单独core层，这样可以只使用一个`MVP`架构，分模块开发项目。
